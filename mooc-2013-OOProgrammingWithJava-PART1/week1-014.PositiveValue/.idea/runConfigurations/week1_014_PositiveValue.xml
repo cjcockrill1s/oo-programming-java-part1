@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-014.PositiveValue" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PositiveValue" />
+    <module name="week1-014.PositiveValue" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

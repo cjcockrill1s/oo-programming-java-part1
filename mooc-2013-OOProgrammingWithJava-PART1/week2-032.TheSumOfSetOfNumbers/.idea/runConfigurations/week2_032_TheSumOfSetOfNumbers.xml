@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-032.TheSumOfSetOfNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="TheSumOfSetOfNumbers" />
+    <module name="week2-032.TheSumOfSetOfNumbers" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

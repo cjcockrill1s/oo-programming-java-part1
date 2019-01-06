@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-054.TheEndPart" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="TheEndPart" />
+    <module name="week3-054.TheEndPart" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-031.LowerLimitAndUpperLimit" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LowerLimitAndUpperLimit" />
+    <module name="week2-031.LowerLimitAndUpperLimit" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

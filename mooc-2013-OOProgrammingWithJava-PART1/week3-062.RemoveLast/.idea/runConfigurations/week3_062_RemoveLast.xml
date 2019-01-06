@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-062.RemoveLast" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RemoveLast" />
+    <module name="week3-062.RemoveLast" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

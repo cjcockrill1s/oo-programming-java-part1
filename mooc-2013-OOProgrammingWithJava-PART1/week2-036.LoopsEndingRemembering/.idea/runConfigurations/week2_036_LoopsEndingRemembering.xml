@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-036.LoopsEndingRemembering" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LoopsEndingRemembering" />
+    <module name="week2-036.LoopsEndingRemembering" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

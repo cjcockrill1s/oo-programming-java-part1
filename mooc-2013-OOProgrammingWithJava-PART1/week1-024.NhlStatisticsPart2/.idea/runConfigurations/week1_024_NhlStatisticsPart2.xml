@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week1-024.NhlStatisticsPart2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="NhlStatisticsPart2" />
+    <module name="week1-024.NhlStatisticsPart2" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

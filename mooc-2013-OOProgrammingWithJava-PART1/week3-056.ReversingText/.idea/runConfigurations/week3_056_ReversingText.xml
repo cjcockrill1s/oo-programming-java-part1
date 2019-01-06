@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-056.ReversingText" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ReversingText" />
+    <module name="week3-056.ReversingText" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

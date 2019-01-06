@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-069.Palindrome" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Palindromi" />
+    <module name="week3-069.Palindrome" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

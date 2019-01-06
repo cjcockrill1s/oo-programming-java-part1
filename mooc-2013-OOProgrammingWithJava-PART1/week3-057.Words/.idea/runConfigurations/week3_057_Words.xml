@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week3-057.Words" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Words" />
+    <module name="week3-057.Words" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
